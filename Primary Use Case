@@ -1,0 +1,17 @@
+
+1. Introduction 
+
+This Use Case belongs to the primary Use Case category and is an instruction type of a model, where anyone can add hisher audiofile and play it with 
+the "Astronaut voice distortion' functions, that is available in this repository.
+
+Firstly, record your own audiofile, for example with your mobile device or laptop and fetch that (MP3, wav) file into the correct Matlab project file.
+
+Secondly, choose which function you want to include with that audio file. You can also play your audio file in such a manner, that it uses both Mercury and Apollo
+effects. In fact, this creates a cool reverberation like effect. Test it to find out :)
+
+Thirdly, run the commands in the Matlab terminal and listen to your chosen parameter values and their effects. 
+
+Fourthly, you can innovate your own implementations simply by just changing your own audio files and for more ideas, please see the general
+description of the possible Use Cases.
+
+If you come up with your own great ideas, please let us know and we will post them here for all. 
