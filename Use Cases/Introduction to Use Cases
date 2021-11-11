@@ -1,0 +1,29 @@
+1. Introduction 
+
+This introductory chapter discusses the possibilities to create Use Cases around the topic voice distortion. Although the Conference Paper was 
+Modeling the sound of Astronaut voice communications, the idea behind 'Vintage' audio emulation is not a new one. 
+Vintage audio emulation refers to the reproducing the characteristics sounds of legacy audio technologies and this is a long list.
+For example, Oksanen & Välimäki (2011) modeled the vintage telephone sound and this Conference paper is actually an extension to their ideas in many respects.
+However, the writing process of this Conference Paper has already proved that the possibilities for different Use Cases is really varied.
+Thus, we visualize a grid like category, which includes the primary, secondary and combined levels. In the first category is naturally voice distortion type 
+Use Cases, such as: vintage telephone sounds, astronaut communications between the space shuttle and command center, radiophone (walkie-talkie) communications,
+foreign telephone calls, airplane to air traffic tower communications, old television broadcasts in the black&white era etc.
+
+The secondary Use Cases include the creation of special audio effects in games, films, podcasts and music. In these use cases, the humm like background sound of iconic 
+space flights is the feature, which creates these chilling special effects. Or so is our current understanding of the topic currently and surely innovative approaches could create 
+a huge amount of other possibilities too. Feel free to surprise us all :)
+
+The combined level Use Cases are more casual and exploratory by its nature. One can for example, include both the primary and secondary level Use Cases here and basically
+just play around with our model. After all, it is manually tuneable and adjusting the parameters in the functions create very powerful changes in the outputs respectively. 
+This level enables more innovative approach to sound production and one can be sure, that the created sounds are original. One interesting finding during this 
+research was, that it is possible to create a small reverberation like effect, when playing the Mercury and Apollo functions simultaneously. 
+One thing to remember here is, that the sound quality is going to be distorted in relation to one's parameter choices and the audio inputs are to be 'dry' to ensure that the
+outputs do not become distorted 'double'. 
+
+We wish you happy experimentation moments with the created model, which is enabled rather flexibly under the chosen licence. 
+ 
+SUMMARY: 
+1.) Primary Use Cases. vintage telephone sounds, astronaut communications between the space shuttle and command center, radiophone (walkie-talkie) communications,
+foreign telephone calls, airplane to air traffic tower communications, old television broadcasts, E.T calling home :) 
+2.) Secondary Use Cases. Special audio effects in games, films, podcasts, IG postings and music.
+3.) Combined Use Cases. Manual tuning of the model and exploration of outputs in the wide meaning. 
